@@ -1,4 +1,4 @@
-# 📘 Jak zostać programistą. Skuteczny przewodnik [E-BOOK]
+# 📘 Jak zostać programistą? Skuteczny przewodnik [E-BOOK]
 
 Bezpłatny E-book, który prezentuję jest **kompendium wiedzy o realiach wejścia do branży IT** – bez lukrowania, oparte na historiach moich podopiecznych. Materiał jest regularnie weryfikowany i aktualizowany (co kilka miesięcy), aby oddawał obecną sytuację na rynku.
 
@@ -52,7 +52,7 @@ Nazywam się **Mateusz Bogolubow**. Jestem mentorem programowania z 20-letnim st
 
 Jeśli po lekturze będziesz potrzebować wsparcia lub weryfikacji Twojego planu:
 
-* 🤝 **Mentoring:** [Zweryfikuj swój plan (Rozmowa 1:1)](https://devmentor.pl/rozmowa)
+* 🤝 **Mentoring:** [Zweryfikuj swój plan (rozmowa online)](https://devmentor.pl/rozmowa)
 * ▶️ **YouTube:** [Podcast: Pierwsze Kroki w IT](https://www.youtube.com/watch?v=pFo82xsqqsQ&list=PLiqmKUYV2ZSqmcR11vT_0ZyV-xvdAXUX-)
 * 🌐 **Strona główna:** [DevMentor.pl](https://devmentor.pl)
 
