@@ -1,4 +1,4 @@
-# 📘 Jak zostać programistą? Skuteczny przewodnik [E-BOOK]
+# 📘 Jak zostać programistą? Skuteczny przewodnik
 
 Bezpłatny E-book, który prezentuję jest **kompendium wiedzy o realiach wejścia do branży IT** – bez lukrowania, oparte na historiach moich podopiecznych. Materiał jest regularnie weryfikowany i aktualizowany (co kilka miesięcy), aby oddawał obecną sytuację na rynku.
 
